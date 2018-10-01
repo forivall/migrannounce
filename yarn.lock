@@ -1939,9 +1939,9 @@ supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
 
-svelte@^2.13.2:
-  version "2.13.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-2.13.2.tgz#69026ac64cca97134e4d49104e0c894ea590ff7a"
+svelte@^2.13.5:
+  version "2.13.5"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-2.13.5.tgz#23478480ed0f7d4da4816022d84a86512d503358"
 
 through2@^0.6.1:
   version "0.6.5"
